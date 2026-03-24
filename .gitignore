@@ -1,3 +1,9 @@
 # Variables de entorno
 .env
 venv/
+# Python
+.pytest_cache/
+__pycache__/
+*.pyc
+# OS
+.DS_Store
